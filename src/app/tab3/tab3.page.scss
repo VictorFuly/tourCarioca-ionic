@@ -1,0 +1,51 @@
+ion-card-title{
+    font-weight: bold ;
+    color: rgb(32, 6, 104);
+}
+
+ion-buttons{
+    -color: white;
+}
+
+.login{
+    color: white;
+}
+
+.info{
+    color: white;
+
+}
+
+ion-icon{
+    color:rgb(32, 6, 104); 
+    margin-right: 8px;
+    font-size: 20px;
+}
+
+ion-label{
+    font-weight: bold;
+    color: black;
+    font-size: 17px;
+}
+
+ion-card{
+    border: 1px solid rgba(0, 0, 0, 0.288)
+}
+
+ion-content{
+    --background: rgb(219, 219, 219);
+
+}
+
+ion-toolbar{
+    --background: rgb(32, 6, 104);
+    --color: white;
+}
+
+ion-menu-button{
+    --color: white;
+}
+
+ion-buttons ion-icon{
+    --color: yellow;
+}

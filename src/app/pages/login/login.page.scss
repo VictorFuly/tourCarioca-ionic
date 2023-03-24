@@ -1,0 +1,33 @@
+ion-content {
+	--padding-top: 20%;
+	--padding-start: 10%;
+	--padding-end: 10%;
+	--background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/A_black_image.jpg/640px-A_black_image.jpg')
+		0 0/100% 100% no-repeat;
+	--background: rgb(219, 219, 219);
+}
+
+.input-group {
+	background: #fff;
+	border-radius: 10px;
+	overflow: hidden;
+	margin-bottom: 15px;
+	border: 1px solid rgba(0, 0, 0, 0.288);
+}
+
+ion-toolbar{
+	--background:  rgb(32, 6, 104);
+	color: white;
+}
+
+.errors {
+	font-size: small;
+	color: #fff;
+	background: var(--ion-color-danger);
+	padding-left: 15px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+ img{
+	margin-bottom: 20px;
+ }
